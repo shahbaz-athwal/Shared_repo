@@ -1,1 +1,5 @@
-print('operations')
+print("operations")
+
+
+def add(a, b):
+    return a + b
